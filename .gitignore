@@ -1,0 +1,6 @@
+/fastai_ml_training/Data/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
+/ML projects/data/home_credit_default_risk/
+ML projects/data/home_credit_default_risk/
